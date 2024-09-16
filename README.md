@@ -1,3 +1,3 @@
 # Hello, I'm Sam!
 
-I am a UCL BSc Biomedical Sciences graduate and a current MSc Computer Science postgraduate at UoB. I am an aspiring iOS and this GitHub page shows all the projects that I am working on. See the links below to get in contact!
+I am a BSc Biomedical Sciences graduate from UCL and a current MSc Computer Science postgraduate at UoB. I am an aspiring iOS Developer and this GitHub page is a showcase for all my personal projects.
